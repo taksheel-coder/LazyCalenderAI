@@ -1,3 +1,4 @@
+
 # 🗓️ LazyCalenderAI
 
 > An intelligent, lightning-fast macOS menu bar assistant that seamlessly manages your Apple Calendar with natural language.
@@ -11,7 +12,7 @@ Managing a calendar manually can be tedious. Opening the app, picking dates, set
 I built **LazyCalenderAI** because I wanted a frictionless way to control my schedule directly from the macOS menu bar without keeping an IDE or heavy window open. With a quick shortcut, you can type what you want to do in plain English—whether rescheduling a session or booking a quick slot—and let an LLM handle the coordination natively.
 
 ---
-
+<img width="450" height="584" alt="Screenshot 2026-08-31 at 11 03 43 PM" src="https://github.com/user-attachments/assets/8a987b09-9565-4ae8-a040-32ced17e0350" />
 ## ✨ Features
 
 - **⚡ Menu Bar Native:** Lives quietly in your macOS menu bar (`LSUIElement`) with a clean frosted-glass UI.
