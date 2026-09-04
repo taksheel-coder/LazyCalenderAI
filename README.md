@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🗓️ LazyCalenderAI
@@ -33,7 +34,7 @@ curl -fsSL https://raw.githubusercontent.com/taksheel-coder/LazyCalenderAI/main/
 3. Open it from Launchpad or Finder.
 
 ---
-
+<img width="406" height="582" alt="Screenshot 2026-09-04 at 7 47 40 PM" src="https://github.com/user-attachments/assets/6f4c24bf-2351-4461-9a45-600f51de6485" />
 ## ✨ Features
 
 - **🚀 Native macOS Menu Bar App:** Lives strictly in your menu bar (`LSUIElement`). Zero dock clutter.
